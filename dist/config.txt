@@ -1,0 +1,9 @@
+#Time should be specified in "dd.MM.yyyy hh:mm:ss" format
+firstRun = 30.03.2016 18:10:00
+#Following units of time are supported:
+#hours h
+#minutes m
+#seconds s
+updateFrequency = 24h
+login = 720699
+password = 1234567
