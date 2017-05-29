@@ -5,5 +5,5 @@ firstRun = 30.03.2016 18:10:00
 #minutes m
 #seconds s
 updateFrequency = 24h
-login = 720699
-password = 1234567
+login = 
+password = 
